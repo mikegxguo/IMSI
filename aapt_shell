@@ -1,0 +1,4 @@
+../../../out/host/linux-x86/bin/aapt a ../../../out/target/product/gemini/system/priv-app/IMSI/IMSI.apk lib/arm64-v8a/libqlmodem.so
+#../../../out/host/linux-x86/bin/aapt a ../../../out/target/product/gemini/system/priv-app/IMSI/IMSI.apk lib/arm64-v8a/libnative-lib.so
+cp ../../../out/target/product/gemini/system/priv-app/IMSI/IMSI.apk ~/mike/share/
+cd ../../../
